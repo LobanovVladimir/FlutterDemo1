@@ -52399,7 +52399,7 @@ return new A.HU(s,new A.tF(s,this.d,null),null)}}
 A.HU.prototype={
 bx(a){return this.f!==a.f}}
 A.z_.prototype={
-M(a){return new A.pI(B.BG,"Flutter Demo",A.a5K(null,A.ab7(B.N,B.Bn),!0),null)}}
+M(a){return new A.pI(B.BG,"\u041c\u043e\u044f \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0447\u043a\u0430",A.a5K(null,A.ab7(B.N,B.Bn),!0),null)}}
 A.pU.prototype={
 aw(){return new A.tI(B.p)}}
 A.tI.prototype={
@@ -56364,7 +56364,7 @@ B.Hy=new A.j(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.H7=new A.j(!0,B.h,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Iv=new A.cw(B.GN,B.I9,B.HR,B.Fk,B.HJ,B.GH,B.Id,B.FQ,B.Gn,B.HC,B.Fb,B.HS,B.HG,B.Hy,B.H7)
 B.Iw=new A.BF(1,"longestLine")
-B.Ix=new A.mH("You have pushed the button this many times:",null,null,null,null)
+B.Ix=new A.mH("\u041f\u043e\u043a\u0430 \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u044b\u0439 \u0441\u0447\u0451\u0442\u0447\u0438\u043a",null,null,null,null)
 B.KV=new A.U5(0,"system")
 B.Iy=new A.rB(null)
 B.dL=new A.BK(0,"clamp")
